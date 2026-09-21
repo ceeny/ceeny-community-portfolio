@@ -1,6 +1,6 @@
 # Ceeny — Community Manager Portfolio
 
-A single-page portfolio for Ceeny, a Web3 community manager focused on moderation, customer support, onboarding, content, crisis response, analytics, and operations.
+A single-page portfolio for Ceeny, a community manager focused on moderation, customer support, onboarding, content, crisis response, analytics, and operations.
 
 ## Local development
 
